@@ -1,4 +1,7 @@
-### Hi there 👋
+### Heyyyy!👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+</div>
 
 <!--
 **brihad24/brihad24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
