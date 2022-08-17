@@ -6,10 +6,10 @@
 <div id="badges">
   <center>
     <a href="https://www.linkedin.com/in/brihad-gunapu-681588200/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white", align = "center", alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" class = "center" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/BrihadGV">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white", align = "center", alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" class = "center" alt="Twitter Badge"/>
     </a>
   </center>
 </div>
