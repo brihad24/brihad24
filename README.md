@@ -16,9 +16,9 @@
 
 Here are some ideas to get you started:
 -->
-- :man_technologist: Currently pursuing my BTech in Computer Science Engineering, specializing in AIML
+- :man_technologist: Currently pursuing BTech in Computer Science Engineering, specializing in AIML
 - 🏫 UPES, Dehradun
-- 🔭 I’m currently working on building my skills, while simultaneously working on a few projects.
+- 🔭 I’m currently building my skills, while simultaneously working on a few projects.
 - 🌱 I’m currently learning machine learning and working on related projects.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brihad-gunapu/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-maroon?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/brihad.13/) 
 
