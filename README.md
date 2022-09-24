@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 - 🏫 UPES, Dehradun
 - 🔭 I’m currently building my skills, while simultaneously working on a couple of projects.
 - 🌱 I’m currently learning machine learning and working on related projects.
+- 📝 Check out my blogs here! [![Dev.to Badge](https://img.shields.io/badge/-Dev.to-black?style=flat&logo=Dev.to&logoColor=white)](https://dev.to/brihad24)
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brihad-gunapu/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-maroon?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/brihad.13/) 
+
 
 ---
 
