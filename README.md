@@ -63,5 +63,4 @@ Here are some ideas to get you started:
 
 
 ---
-
- <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="1100" height="300"/>
+ <img src="https://raw.githubusercontent.com/brihad24/brihad24/4c6b2c4483bda54f22f5231f2fad2b37493c5359/github-contribution-grid-snake.svg" width="1000" height="200"/>
