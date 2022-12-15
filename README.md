@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <p> &ensp; &ensp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brihad24&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Brihad" width="357"/> &ensp; &ensp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brihad24&layout=compact&theme=gotham" alt="Brihad" width="425"/></p>
 <!-- <p>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brihad24&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brihad24&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brihad24&layout=compact&theme=vision-friendly-dark&exclude_repo=Flight-Fare-Predictor,SummerProjects)](https://github.com/anuraghazra/github-readme-stats)
   </p> -->
 
 ---
