@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" width="1000" height="200"/>
+</div>
+
+<div align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1200" height="300"/>
+</div>
+
 <h3>
   <p align = "center">
       Hello World!!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="4%"/>  <br><br>
@@ -5,9 +13,6 @@
   </p>
 </h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
@@ -16,16 +21,19 @@
 
 Here are some ideas to get you started:
 -->
+<img align="right" alt="gif" width="300" style="border-radius:5px" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"> 
+
 - :man_technologist: Currently pursuing BTech in Computer Science Engineering, specializing in AIML
 - 🏫 UPES, Dehradun
 - 🔭 I’m currently building my skills, while simultaneously working on a few of projects.
 - 🌱 I’m currently learning machine learning and DSA, while working on related projects.
 - 📫 You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brihad-gunapu/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-maroon?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/brihad.13/) 
+- 📄Check out my resume! <a href = "https://drive.google.com/file/d/1XzQXGBsMBVk4NPJ6PiTF_-NEumnW2anU/view?usp=sharing"> Brihad's Resume </a>
 
 
 ---
-
 :hammer_and_wrench: Languages and Tools :
+<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -36,6 +44,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
 
 ---
