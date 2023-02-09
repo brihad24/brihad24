@@ -1,17 +1,18 @@
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" width="1000" height="200"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg" width="1200" height="200"/>
 </div>
 
-<!-- <div align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1200" height="300"/>
-</div>-->
 
-<h3>
-  <p align = "center">
-      Hello World!!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="4%"/>  <br><br>
-      I'm Brihad, a 3rd year CS major studying at UPES Dehradun, specializing in Artificial Intelligence & Machine Learning.
-  </p>
-</h3>
+<p align = "center">
+  <h2 align = "center">
+      Hello World!!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="4%"/> 
+  </h2>
+  <h4>
+      I'm Brihad, a 3rd year CS major studying at UPES Dehradun, specializing in Artificial Intelligence & Machine Learning. I currently serve as the Events Lead at GDSC UPES. Scroll down to know more about me and to connect with me!
+  </h4>
+</p>
+
+
 
 
 ---
@@ -27,8 +28,8 @@ Here are some ideas to get you started:
 - 🏫 UPES, Dehradun
 - 🔭 I’m currently building my skills, while simultaneously working on a few of projects.
 - 🌱 I’m currently learning machine learning and DSA, while working on related projects.
+- 📄Check out my resume! [![Brihad's Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logoColor=white)](https://drive.google.com/file/d/1XzQXGBsMBVk4NPJ6PiTF_-NEumnW2anU/view?usp=sharing)
 - 📫 You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brihad-gunapu/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-maroon?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/brihad.13/) 
-- 📄Check out my resume! <a href = "https://drive.google.com/file/d/1XzQXGBsMBVk4NPJ6PiTF_-NEumnW2anU/view?usp=sharing"> Brihad's Resume </a>
 
 
 ---
