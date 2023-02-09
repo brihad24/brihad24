@@ -1,6 +1,6 @@
 <h3>
   <p align = "center">
-      Heyyyy!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="4%"/>  <br><br>
+      Hey hoomans!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="4%"/>  <br><br>
       I'm Brihad, a 3rd year CS major studying at UPES Dehradun, specializing in Artificial Intelligence & Machine Learning.
   </p>
 </h3>
@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 - :man_technologist: Currently pursuing BTech in Computer Science Engineering, specializing in AIML
 - 🏫 UPES, Dehradun
-- 🔭 I’m currently building my skills, while simultaneously working on a couple of projects.
-- 🌱 I’m currently learning machine learning and working on related projects.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brihad-gunapu/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-maroon?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/brihad.13/) 
+- 🔭 I’m currently building my skills, while simultaneously working on a few of projects.
+- 🌱 I’m currently learning machine learning and DSA, while working on related projects.
+- 📫 You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brihad-gunapu/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-maroon?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/brihad.13/) 
 
 
 ---
@@ -33,6 +33,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
 
 ---
