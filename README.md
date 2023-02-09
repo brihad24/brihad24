@@ -2,9 +2,9 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" width="1000" height="200"/>
 </div>
 
-<div align="right">
+<!-- <div align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1200" height="300"/>
-</div>
+</div>-->
 
 <h3>
   <p align = "center">
