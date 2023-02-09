@@ -1,6 +1,6 @@
 <h3>
   <p align = "center">
-      Hey hoomans!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="4%"/>  <br><br>
+      Hello World!!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="4%"/>  <br><br>
       I'm Brihad, a 3rd year CS major studying at UPES Dehradun, specializing in Artificial Intelligence & Machine Learning.
   </p>
 </h3>
