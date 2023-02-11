@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 -->
 <img align="right" alt="gif" width="300" style="border-radius:5px" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"> 
 
-- :man_technologist: Currently pursuing BTech in Computer Science Engineering, specializing in AIML
+- :man_technologist: Pursuing BTech in Computer Science Engineering, specializing in AIML
 - 🏫 UPES, Dehradun
-- 🔭 I’m currently building my skills, while simultaneously working on a few of projects.
-- 🌱 I’m currently learning machine learning and DSA, while working on related projects.
+- 🔭 Building my skills, while also working on a few of projects.
+- 🌱 Learning Machine Learning, Web Development and DSA, while working on related projects.
 - 📄Check out my resume! [![Brihad's Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logoColor=white)](https://drive.google.com/file/d/1XzQXGBsMBVk4NPJ6PiTF_-NEumnW2anU/view?usp=sharing)
 - 📫 You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brihad-gunapu/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-maroon?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/brihad.13/) 
 
