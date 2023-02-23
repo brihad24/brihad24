@@ -12,10 +12,10 @@
   </h4>
 </p>
 
+<img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> 
+<br>
 
 
-
----
 
 <!--
 **brihad24/brihad24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@
 Here are some ideas to get you started:
 -->
 
-<img align="right" alt="gif" width="300" style="border-radius:5px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> 
+<img align="right" alt="gif" width="300" style="border-radius:5px" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=ecf05e47ng2jf7dxezd34hg04jdabbi98llm697akg7804c7&rid=200.webp&ct=g"> 
 
 - :man_technologist: Pursuing BTech in Computer Science Engineering, specializing in AIML
 - 🏫 UPES, Dehradun
@@ -33,9 +33,10 @@ Here are some ideas to get you started:
 - 📫 You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brihad-gunapu/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-maroon?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/brihad.13/) 
 
 
----
-:hammer_and_wrench: Languages and Tools :
+<img align="left" alt="gif" width="680" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> 
 <br>
+:hammer_and_wrench: Languages and Tools :
+<br><br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -48,8 +49,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
-
----
+<br>
+<img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> 
 
 :fire: My stats: <br><br>
 
@@ -59,7 +60,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brihad24&layout=compact&theme=vision-friendly-dark&exclude_repo=Flight-Fare-Predictor,SummerProjects)](https://github.com/anuraghazra/github-readme-stats)
   </p> -->
 
----
+<img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200"/>
@@ -81,5 +82,6 @@ Here are some ideas to get you started:
 </div>
 
 
----
+<img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> 
+<br>
  <img src="https://raw.githubusercontent.com/brihad24/brihad24/4c6b2c4483bda54f22f5231f2fad2b37493c5359/github-contribution-grid-snake.svg" width="1000" height="200"/>
