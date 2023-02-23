@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 📫 You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brihad-gunapu/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-maroon?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/brihad.13/) 
 
 
-<img align="left" alt="gif" width="680" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> 
+<img align="left" alt="gif" width="680" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 :hammer_and_wrench: Languages and Tools :
 <br><br>
