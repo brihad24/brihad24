@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 <img align="left" alt="gif" width="520" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> &nbsp;&nbsp;&nbsp;&nbsp;
-<br>
+<br><br>
 :hammer_and_wrench: Languages and Tools :
 <br><br>
 <div>
