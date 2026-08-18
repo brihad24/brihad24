@@ -8,7 +8,7 @@
       Hello World!!!
   </h2>
   <h4>
-      I'm Brihad, a  Graduate Developer currently working at Barclays. Scroll down to learn more about me and to connect with me!
+      I'm Brihad, a  Software Engineer working at Barclays. Scroll down to learn more about me and to connect with me!
   </h4>
 </p>
 
@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 ---
 - :man_technologist: Software Developer at Barclays
 - 🏫 UPES, Dehradun
-- 🔭 Upskilling myself.
-- 🌱 Learning Salesforce, Full-Stack development, and DSA.
-- 📄Check out my resume! [![Brihad's Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logoColor=white)](https://drive.google.com/file/d/1XzQXGBsMBVk4NPJ6PiTF_-NEumnW2anU/view?usp=sharing)
+- 📄Check out my resume! [![Brihad's Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logoColor=white)](https://drive.google.com/file/d/1STvzqKysjDDsp5FXUEdo8nSS8A3jNH3_/view?usp=sharing)
 - 📫 You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brihad-gunapu/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-maroon?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/brihad.13/) <img src="https://img.shields.io/twitter/follow/:BrihadGV" alt="Twitter Badge"/>
 
 
